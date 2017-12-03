@@ -1,2 +1,2 @@
-# node
-NodeJS related programs
+# Node
+A repository for NodeJS related programs
